@@ -97,7 +97,7 @@ const Index = () => {
               </div>
             </DialogContent>
           </Dialog>
-          <a href="https://github.com/asgenzy/pixelplunder" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/prathamjain416/pixelplunder" target="_blank" rel="noopener noreferrer">
             <PixelButton variant="secondary" size="sm">
               GITHUB
             </PixelButton>
